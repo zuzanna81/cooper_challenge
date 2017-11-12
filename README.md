@@ -13,13 +13,11 @@ The challenge is to build a JavaScript-based program that makes the calculation,
 
 **How to build the application**
 
-1. Create a cooper_spec.js file in the spec folder and add tests that covers the user story:
+1. Create a cooper_spec.js file in the spec folder and add tests that cover the user story:
 
-As an athlete,
-In order to get to know my results from the Cooper test
-I want to be able to input my distance and get a result from the normative data table
+* As an athlete, in order to get to know my results from the Cooper test I want to be able to input my distance and get a result from the normative data table
 
-2. Create a cooper.js file in the src folder and implement code that cover test specs
+2. Create a cooper.js file in the src folder and implement code that covers test specs
 3. Add both files to the SpecRunner.html file
 
 **How to run the application**
