@@ -25,3 +25,7 @@ The challenge is to build a JavaScript-based program that makes the calculation,
 1. Open the SpecRunner.html (or any other browser window)
 2. Right-click and choose Inspect
 3. Switch to the Console tab and run the application from there
+
+**Resources**
+
+CraftAcademy course material, Stack Overflow
